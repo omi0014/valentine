@@ -1,0 +1,94 @@
+💌 Valentine Proposal Using URL Magic (No Code Needed)
+
+Want to surprise your partner with a personalized Valentine proposal using a simple link?
+This project lets you do exactly that ❤️
+
+All you need is a URL and a name.
+
+✨ How It Works
+
+The proposal page reads a name from the URL and automatically personalizes the message.
+
+Example:
+
+https://d2v000002izavea4-dev-ed.my.site.com/valentine/proposal?name=her
+
+
+The page will display:
+
+Hey Her Name, 💖
+
+No login. No backend. Just link magic ✨
+
+🪄 How to Use (URL Hacking 😄)
+1️⃣ Basic Usage
+
+Add ?name= at the end of the proposal page URL.
+
+/valentine/proposal?name=HerName
+
+
+Example:
+
+/valentine/proposal?name=Ananya
+/valentine/proposal??name=Priya
+
+2️⃣ Names With Spaces
+
+Replace spaces with %20 or just let the app handle it.
+
+/valentine/proposal??name=My%20Favourite%20Person
+
+
+Displays as:
+
+Hey My Favourite Person,
+
+3️⃣ Emojis Work Too 😍
+
+Yes, emojis are supported.
+
+/valentine/proposal??name=Cutie%20💖
+
+4️⃣ What If I Don’t Pass a Name?
+
+No worries 😊
+If no name is passed, it defaults to:
+
+Hey You,
+
+🏠 Easy Mode (Home Page)
+
+If you don’t want to manually edit URLs:
+
+Open the Home Page
+
+Enter the name
+
+Click Open Proposal
+
+Share the link or hand over the phone 😄
+
+📸 Pro Tip
+
+Record their reaction when they click Yes.
+Trust us — it’s worth it 💘
+
+Caption idea:
+
+When your partner works in IT… 💻❤️
+
+⚠️ Friendly Warning
+
+This is meant for fun & love
+
+Don’t use it to prank strangers 😅
+
+Keep names short for best UI
+
+❤️ Final Note
+
+Sometimes, the best proposals aren’t expensive…
+They’re thoughtful, creative, and a little nerdy 😌
+
+Happy Valentine’s Day 💕
